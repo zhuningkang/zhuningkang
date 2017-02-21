@@ -6,3 +6,4 @@ Creating a new branch is quick and simple and bb.
 add merge
 assssssssssssss
 assssssss
+add merge
